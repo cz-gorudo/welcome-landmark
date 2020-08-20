@@ -7,7 +7,7 @@
     "@types/bcrypt": "^3.0.0",
     "@types/koa-bodyparser": "^4.3.0",
     "@types/koa-helmet": "^3.1.2",
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "http-status-codes": "^1.4.0",
     "jsonwebtoken": "^8.5.1",
     "koa": "^2.11.0",
